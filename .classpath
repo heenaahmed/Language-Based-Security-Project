@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.ajdt.core.ASPECTJRT_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/bharatkumarreddy/Downloads/software/eclipse-standard-kepler-R-win32-x86_64/eclipse/plugins/org.apache.httpcomponents.httpclient_4.1.3.v201209201135.jar" sourcepath="C:/Users/bharatkumarreddy/Downloads/software/eclipse-standard-kepler-R-win32-x86_64/eclipse/plugins/org.apache.httpcomponents.httpclient.source_4.1.3.v201209201135.jar">
+		<accessrules>
+			<accessrule kind="accessible" pattern="org/apache/http/auth/params/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/auth/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/cookie/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/cookie/params/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/conn/params/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/conn/util/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/conn/routing/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/conn/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/conn/ssl/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/conn/scheme/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/client/params/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/client/protocol/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/client/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/client/utils/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/client/methods/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/client/cache/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/client/entity/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/entity/mime/content/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/entity/mime/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/impl/auth/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/impl/cookie/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/impl/conn/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/impl/conn/tsccm/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/impl/client/cache/memcached/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/impl/client/cache/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/impl/client/cache/ehcache/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/impl/client/*"/>
+			<accessrule ignoreifbetter="true" kind="nonaccessible" pattern="**/*"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bharatkumarreddy/Downloads/software/eclipse-standard-kepler-R-win32-x86_64/eclipse/plugins/org.apache.httpcomponents.httpcore_4.1.4.v201203221030.jar" sourcepath="C:/Users/bharatkumarreddy/Downloads/software/eclipse-standard-kepler-R-win32-x86_64/eclipse/plugins/org.apache.httpcomponents.httpcore.source_4.1.4.v201203221030.jar">
+		<accessrules>
+			<accessrule kind="accessible" pattern="org/apache/http/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/entity/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/impl/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/impl/entity/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/impl/io/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/io/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/message/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/params/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/protocol/*"/>
+			<accessrule kind="accessible" pattern="org/apache/http/util/*"/>
+			<accessrule ignoreifbetter="true" kind="nonaccessible" pattern="**/*"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
